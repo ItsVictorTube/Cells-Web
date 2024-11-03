@@ -7,6 +7,16 @@
   font-family: sans-serif;
 }
 
+.img {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-color: #f0f0f0;
+  border-radius: 3px;
+  border-style: solid;
+}
+
 body {
   margin: 0;
   padding: 0;
